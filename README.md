@@ -14,7 +14,6 @@ Clique em **3 pontos** na janela para formar um triângulo. Cada triângulo rece
 - OpenGL 3.3+
 
 
-```bash
 ## Controles
 
 | Ação | Resultado |
